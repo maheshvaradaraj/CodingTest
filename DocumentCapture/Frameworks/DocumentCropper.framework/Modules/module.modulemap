@@ -1,0 +1,6 @@
+framework module DocumentCropper {
+  umbrella header "DocumentCropper.h"
+
+  export *
+  module * { export * }
+}
